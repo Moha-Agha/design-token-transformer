@@ -20,5 +20,6 @@
   "BordersSingleStyle": {"align":"inside","dashPattern":[],"lineCap":"none","lineJoin":"miter","miterLimit":4,"weight":5,"color":"#044affff"},
   "Radius5": {"smoothing":0,"topLeft":5,"topRight":5,"bottomLeft":5,"bottomRight":5},
   "RadiiSmoothing": {"smoothing":0.75,"topLeft":10,"topRight":10,"bottomLeft":10,"bottomRight":10},
-  "RadiiMixed": {"smoothing":0,"topLeft":5.5,"topRight":10,"bottomLeft":20,"bottomRight":15}
+  "RadiiMixed": {"smoothing":0,"topLeft":5.5,"topRight":10,"bottomLeft":20,"bottomRight":15},
+  "ColorBlue400": "#408cff"
 }
