@@ -4,13 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 01 Oct 2021 12:24:32 GMT
+// Generated on Fri, 01 Oct 2021 12:28:39 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBlue400
+ColorBlue400,
+ColorWhite400
 };
 
 @interface StyleDictionaryColor : NSObject
